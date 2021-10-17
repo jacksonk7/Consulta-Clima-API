@@ -1,6 +1,6 @@
 # CONSULTOR DE CLIMA :cloud:
 
-![image-20211017121620719](C:\Users\jacks\AppData\Roaming\Typora\typora-user-images\image-20211017121620719.png)
+![Screenshot_1](C:\workspace\Clima\Screenshot_1.png)
 
 Esse projeto foi construído com javascript, HTML e CSS.
 
